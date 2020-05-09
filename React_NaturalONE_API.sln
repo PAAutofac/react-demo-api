@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React_NaturalONE_API", "React_NaturalONE_API.csproj", "{E96008AE-59ED-4F4A-8CB3-7ADA2CE3D54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E96008AE-59ED-4F4A-8CB3-7ADA2CE3D54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96008AE-59ED-4F4A-8CB3-7ADA2CE3D54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96008AE-59ED-4F4A-8CB3-7ADA2CE3D54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96008AE-59ED-4F4A-8CB3-7ADA2CE3D54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4DEF92-1AF2-485E-A304-F623A8FAE973}
+	EndGlobalSection
+EndGlobal
